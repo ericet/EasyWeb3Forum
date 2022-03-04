@@ -1,6 +1,7 @@
 # Easy Web3 Forum
 ## 设置
-* git clone https://github.com/ericet/EasyWeb3Form
+* git clone https://github.com/ericet/EasyWeb3Forum
+* cd EasyWeb3Forum
 * npm install
 * mv .env.example .env
 
